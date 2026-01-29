@@ -128,7 +128,7 @@ const minatoUzuki = {
 
 <div align="center">
 
-## 🎨 Featured Projects
+<!--## 🎨 Featured Projects
 
 <a href="https://github.com/minatouzuki">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=minatouzuki&repo=your-awesome-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E" alt="Project 1" />
@@ -137,7 +137,7 @@ const minatoUzuki = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=minatouzuki&repo=another-cool-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E" alt="Project 2" />
 </a>
 
-</div>
+</div> -->
 
 ---
 
@@ -185,7 +185,7 @@ I'm always open to interesting conversations and collaboration opportunities!<br
 Feel free to reach out through any of the platforms below:
 </p>
 
-<a href="https://t.me/minatouzuki">
+<a href="https://t.me/aqua_minato">
   <img src="https://img.shields.io/badge/Personal-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Personal Telegram"/>
 </a>
 <a href="https://t.me/chizurusupport">
