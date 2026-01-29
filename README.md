@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MinatoUzuki&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Anime+Enthusiast+%E2%9C%A8;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Anime+Enthusiast+%E2%9C%A8;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <br/>
 
