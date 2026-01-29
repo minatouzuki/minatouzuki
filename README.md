@@ -126,7 +126,7 @@ const minatoUzuki = {
 
 ---
 
-<div align="center">
+<!--<div align="center">
 
 <!--## 🎨 Featured Projects
 
@@ -164,20 +164,6 @@ const minatoUzuki = {
 </div>
 
 ---
-
-<div align="center">
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
-
 ## 🤝 Let's Connect!
 
 <p>
