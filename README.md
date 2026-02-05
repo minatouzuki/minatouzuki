@@ -68,8 +68,6 @@ const minatoUzuki = {
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
 <h2>GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="25" height="25" /></h2>
 <img src="https://raw.githubusercontent.com/minatouzuki/github-stats-transparent/output/generated/overview.svg" width="49%" /><img src="https://raw.githubusercontent.com/minatouzuki/github-stats-transparent/output/generated/languages.svg" width="49%" />
 
