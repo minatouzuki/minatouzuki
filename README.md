@@ -17,6 +17,8 @@
   <a href="mailto:minatouzuki.me@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=minatouzuki&label=Profile%20views&color=0e75b6&style=flat" alt="minatouzuki" /> </p>
+
   <a href="https://t.me/chizurusupport">
     <img src="https://img.shields.io/badge/Support_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"/>
   </a>
