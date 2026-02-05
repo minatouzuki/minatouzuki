@@ -131,9 +131,6 @@ Feel free to reach out through any of the platforms below:
 <a href="https://t.me/aqua_minato">
   <img src="https://img.shields.io/badge/Personal-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Personal Telegram"/>
 </a>
-<a href="https://t.me/chizurusupport">
-  <img src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=Support%20Group&labelColor=282c34&suffix=%20members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DChizuruSupport&style=for-the-badge" alt="Support Group"/>
-</a>
 <a href="mailto:minatouzuki.me@gmail.com">
   <img src="https://img.shields.io/badge/Email-minatouzuki.me@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
