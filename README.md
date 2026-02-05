@@ -112,39 +112,14 @@ const minatoUzuki = {
 
 ---
 
-<div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=minatouzuki&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<!--<div align="center">
-
-<!--## 🎨 Featured Projects
-
-<a href="https://github.com/minatouzuki">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minatouzuki&repo=your-awesome-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E" alt="Project 1" />
-</a>
-<a href="https://github.com/minatouzuki">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minatouzuki&repo=another-cool-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E" alt="Project 2" />
-</a>
-
-</div> -->
-
----
-
-<div align="center">
 
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minatouzuki/minatouzuki/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minatouzuki/minatouzuki/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minatouzuki/minatouzuki/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minatouzuki/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minatouzuki/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minatouzuki/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
