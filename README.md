@@ -66,7 +66,6 @@ const minatoUzuki = {
 ---
 
 <div align="center">
-![](https://raw.githubusercontent.com/minatouzuki/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 <h2>GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="25" height="25" /></h2>
 <img src="https://raw.githubusercontent.com/minatouzuki/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="49%" /><img src="https://raw.githubusercontent.com/minatouzuki/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="49%" />
 
