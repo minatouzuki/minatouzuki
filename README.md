@@ -70,11 +70,7 @@ const minatoUzuki = {
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=minatouzuki&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF006E&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=minatouzuki&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF006E&fire=00F5FF&currStreakLabel=00F5FF" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatouzuki&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=minatouzuki&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF006E&point=FFFFFF" alt="Contribution Graph"/>
+<h2>GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" width="25" height="25" /></h2>
 
 </div>
 
